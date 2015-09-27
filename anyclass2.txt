@@ -1,1 +1,6 @@
 print("WELCOME");
+print("WELCOME");
+print("WELCOME");
+print("WELCOME");
+print("WELCOME");
+print("WELCOME");
