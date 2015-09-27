@@ -1,0 +1,4 @@
+<script>
+       print("goodbye");
+
+</script>
